@@ -1,0 +1,1009 @@
+,Pick,Rd,Dude,Player,Under_Par
+0,3,1,Brandon,Eagle McMahon 1043,-24
+1,16,2,Brandon,Ezra Aderhold 1029,-29
+2,21,3,Brandon,Andrew Marwede 1032,-20
+3,34,4,Brandon,Benjamin Callaway 1024,-17
+4,39,5,Brandon,James Proctor 1020,-23
+5,52,6,Brandon,Connor O'Reilly 1017,-9
+6,8,1,Dann,Kyle Klein 1039,-28
+7,11,2,Dann,Kevin Jones 1031,-29
+8,26,3,Dann,Mason Ford 1027,-19
+9,29,4,Dann,Brodie Smith 1025,-17
+10,44,5,Dann,Chandler Fry 1017,-7
+11,47,6,Dann,Jacob Courtis 1010,-1
+12,1,1,Dave,Gannon Buhr 1043,-17
+13,18,2,Dave,Corey Ellis 1033,-25
+14,19,3,Dave,Alden Harris 1030,-15
+15,36,4,Dave,Emerson Keith 1024,-25
+16,37,5,Dave,Casey White 1017,-7
+17,54,6,Dave,Robert Burridge 1008,-17
+18,9,1,Greg G,Drew Gibson 1035,-28
+19,10,2,Greg G,Matthew Orum 1040,-25
+20,27,3,Greg G,Cole Redalen 1027,-14
+21,28,4,Greg G,Bradley Williams 1029,-12
+22,45,5,Greg G,Paul Ulibarri 1022,-7
+23,46,6,Greg G,Colten Montgomery 1019,-16
+24,5,1,Greg T,Aaron Gossage 1028,-21
+25,14,2,Greg T,Garrett Gurthie 1031,-23
+26,23,3,Greg T,Nikko Locastro 1031,-22
+27,32,4,Greg T,Luke Samson 1021,-18
+28,41,5,Greg T,Paul Oman 1020,-10
+29,50,6,Greg T,Ty Love 1021,-16
+30,2,1,Jack,Paul McBeth 1050,-27
+31,17,2,Jack,James Conrad 1033,-21
+32,20,3,Jack,Chris Clemons 1033,-6
+33,35,4,Jack,Gregg Barsby 1030,-20
+34,38,5,Jack,Matt Bell 1021,-25
+35,53,6,Jack,Jason Hebenheimer 1021,-21
+36,7,1,Matt,Anthony Barela 1039,-25
+37,12,2,Matt,Joel Freeman 1037,-18
+38,25,3,Matt,Nathan Sexton 1035,-15
+39,30,4,Matt,Andrew Presnell 1024,-17
+40,43,5,Matt,Chandler Kramer 1022,-8
+41,48,6,Matt,Luke Humphries 1016,-18
+42,6,1,Spanky,Simon Lizotte 1037,-13
+43,13,2,Spanky,Isaac Robinson 1031,-2
+44,24,3,Spanky,Gavin Rathbun 1027,-19
+45,31,4,Spanky,Albert Tamm 1021,-8
+46,42,5,Spanky,Gavin Babcock 1016,-3
+47,49,6,Spanky,Jeremy Koling 1020,5
+48,4,1,Zach,Calvin Heimburg 1041,-31
+49,15,2,Zach,Adam Hammes 1030,-17
+50,22,3,Zach,Scott Withers 1030,-22
+51,33,4,Zach,Thomas Gilbert 1020,-4
+52,40,5,Zach,Väinö Mäkelä 1027,-9
+53,51,6,Zach,Tristan Tanner 1010,-13
+62,8,1,Brandon,Anthony Barela 1039,-6
+63,11,2,Brandon,Andrew Marwede 1032,-10
+64,26,3,Brandon,Ezra Aderhold 1029,-17
+65,29,4,Brandon,Gavin Rathbun 1027,-11
+66,44,5,Brandon,Luke Humphries 1016,3
+67,47,6,Brandon,Silas Schultz 1016,-8
+68,3,1,Dann,Kevin Jones 1031,-14
+69,16,2,Dann,Adam Hammes 1030,-13
+70,21,3,Dann,Cale Leiviska 1029,-13
+71,34,4,Dann,Scott Withers 1030,-13
+72,39,5,Dann,Matt Bell 1021,-12
+73,52,6,Dann,Parker Welck 1007,-8
+74,6,1,Dave,Gannon Buhr 1043,-22
+75,13,2,Dave,Simon Lizotte 1037,-20
+76,24,3,Dave,Alden Harris 1030,-10
+77,31,4,Dave,Mason Ford 1027,-17
+78,42,5,Dave,Luke Samson 1021,-4
+79,49,6,Dave,Paul Ulibarri 1022,-4
+80,9,1,Greg G,Kyle Klein 1039,-16
+81,10,2,Greg G,Joel Freeman 1037,-13
+82,27,3,Greg G,Cole Redalen 1027,-15
+83,28,4,Greg G,Brodie Smith 1025,-7
+84,45,5,Greg G,Jeremy Koling 1020,-11
+85,46,6,Greg G,Joona Heinänen 1025,-16
+86,5,1,Greg T,Matthew Orum 1040,-8
+87,14,2,Greg T,Richard Wysocki 1047,-1
+88,23,3,Greg T,Corey Ellis 1033,-16
+89,32,4,Greg T,Gregg Barsby 1030,-2
+90,41,5,Greg T,Tony Ferro 1026,6
+91,50,6,Greg T,Jake Hebenheimer 1021,6
+92,1,1,Jack,Paul McBeth 1050,-16
+93,18,2,Jack,Chris Clemons 1033,-3
+94,19,3,Jack,Garrett Gurthie 1031,-8
+95,36,4,Jack,Emerson Keith 1024,6
+96,37,5,Jack,Väinö Mäkelä 1027,-17
+97,54,6,Jack,Albert Tamm 1021,-14
+98,2,1,Matt,Calvin Heimburg 1041,-19
+99,17,2,Matt,Nathan Sexton 1035,-12
+100,20,3,Matt,Bradley Williams 1029,6
+101,35,4,Matt,Niklas Anttila 1029,-11
+102,38,5,Matt,Andrew Presnell 1024,-8
+103,53,6,Matt,Kevin Kiefer III 1016,0
+104,7,1,Spanky,Eagle McMahon 1043,-17
+105,12,2,Spanky,Isaac Robinson 1031,-12
+106,25,3,Spanky,Aaron Gossage 1028,-12
+107,30,4,Spanky,Benjamin Callaway 1024,-2
+108,43,5,Spanky,Ezra Robinson 1018,-11
+109,48,6,Spanky,Casey White 1017,-10
+110,4,1,Zach,Chris Dickerson 1044,-13
+111,15,2,Zach,James Conrad 1033,-3
+112,22,3,Zach,Nikko Locastro 1031,-13
+113,33,4,Zach,James Proctor 1020,-19
+114,40,5,Zach,Paul Oman 1020,-2
+115,51,6,Zach,Michael Johansen 1017,2
+124,7,1,Brandon,Matthew Orum 1040,-10
+125,12,2,Brandon,Anthony Barela 1042,-22
+126,25,3,Brandon,Joona Heinänen 1025,-5
+127,30,4,Brandon,Andrew Presnell 1024,-13
+128,43,5,Brandon,Luke Samson 1020,5
+129,48,6,Brandon,Tony Ferro 1017,5
+130,4,1,Dann,Eagle McMahon 1043,-13
+131,15,2,Dann,Adam Hammes 1031,-16
+132,22,3,Dann,Cole Redalen 1029,-16
+133,33,4,Dann,Väinö Mäkelä 1027,-13
+134,40,5,Dann,Thomas Gilbert 1015,-4
+135,51,6,Dann,Tristan Tanner 1009,-2
+136,3,1,Dave,Chris Dickerson 1042,-21
+137,16,2,Dave,Corey Ellis 1032,-12
+138,21,3,Dave,Brodie Smith 1024,0
+139,34,4,Dave,Emerson Keith 1029,17
+140,39,5,Dave,Evan Scott 1015,-6
+141,52,6,Dave,Robert Burridge 1013,-12
+142,2,1,Greg G,Paul McBeth 1048,-11
+143,17,2,Greg G,Nikko Locastro 1033,-9
+144,20,3,Greg G,Alden Harris 1030,-11
+145,35,4,Greg G,Bradley Williams 1028,-11
+146,38,5,Greg G,Evan Smith 1025,-16
+147,53,6,Greg G,Aidan Scott 1018,-11
+148,9,1,Greg T,Simon Lizotte 1037,-23
+149,10,2,Greg T,Kevin Jones 1033,-1
+150,27,3,Greg T,Scott Withers 1030,-6
+151,28,4,Greg T,Ezra Robinson 1020,-2
+152,45,5,Greg T,Luke Humphries 1018,-13
+153,46,6,Greg T,Parker Welck 1013,8
+154,6,1,Jack,James Conrad 1036,2
+155,13,2,Jack,Chris Clemons 1031,-10
+156,24,3,Jack,Garrett Gurthie 1030,-9
+157,31,4,Jack,Gregg Barsby 1028,-1
+158,42,5,Jack,Gavin Rathbun 1024,0
+159,49,6,Jack,Chandler Kramer 1021,-3
+160,5,1,Matt,Gannon Buhr 1041,-21
+161,14,2,Matt,James Proctor 1021,-20
+162,23,3,Matt,Mason Ford 1028,-9
+163,32,4,Matt,Niklas Anttila 1029,11
+164,41,5,Matt,Jeremy Koling 1018,-9
+165,50,6,Matt,Austin Turner 1017,-19
+166,8,1,Spanky,Kyle Klein 1040,-9
+167,11,2,Spanky,Joel Freeman 1036,-17
+168,26,3,Spanky,Isaac Robinson 1032,-17
+169,29,4,Spanky,Aaron Gossage 1029,-14
+170,44,5,Spanky,Nathan Queen 1021,5
+171,47,6,Spanky,Colten Montgomery 1020,-8
+172,1,1,Zach,Calvin Heimburg 1042,-21
+173,18,2,Zach,Andrew Marwede 1033,-6
+174,19,3,Zach,Ezra Aderhold 1029,-16
+175,36,4,Zach,Benjamin Callaway 1022,12
+176,37,5,Zach,Albert Tamm 1022,-7
+177,54,6,Zach,Jake Hebenheimer 1019,-3
+186,7,1,Brandon,Simon Lizotte 1040,-26
+187,12,2,Brandon,Matthew Orum 1040,-30
+188,25,3,Brandon,Bradley Williams 1027,-13
+189,30,4,Brandon,Andrew Presnell 1025,-12
+190,43,5,Brandon,Joona Heinänen 1025,-26
+191,48,6,Brandon,Aidan Scott 1018,-28
+192,6,1,Dann,Paul McBeth 1046,-23
+193,13,2,Dann,James Proctor 1027,-17
+194,24,3,Dann,Nikko Locastro 1031,-16
+195,31,4,Dann,Ezra Robinson 1020,-20
+196,42,5,Dann,Joseph Anderson 1021,-18
+197,49,6,Dann,Joshua Anthon 1023,0
+198,4,1,Dave,Eagle McMahon 1042,-35
+199,15,2,Dave,Drew Gibson 1033,-11
+200,22,3,Dave,Niklas Anttila 1032,-35
+201,33,4,Dave,Brodie Smith 1024,-4
+202,40,5,Dave,Gregg Barsby 1022,-9
+203,51,6,Dave,Casey White 1017,-12
+204,8,1,Greg G,Kyle Klein 1040,-24
+205,11,2,Greg G,Joel Freeman 1037,-22
+206,26,3,Greg G,Evan Smith 1028,-22
+207,29,4,Greg G,David Feldberg 1022,-10
+208,44,5,Greg G,Chris Nelson 1026,5
+209,47,6,Greg G,Benjamin Callaway 1019,-20
+210,5,1,Greg T,Matt Bell 1021,-7
+211,14,2,Greg T,Corey Ellis 1032,-12
+212,23,3,Greg T,Alden Harris 1030,-21
+213,32,4,Greg T,Silas Schultz 1021,-34
+214,41,5,Greg T,Eric Oakley 1017,-18
+215,50,6,Greg T,Robert Burridge 1017,-23
+216,9,1,Jack,Anthony Barela 1039,-26
+217,10,2,Jack,James Conrad 1031,-27
+218,27,3,Jack,Chris Clemons 1029,-28
+219,28,4,Jack,Väinö Mäkelä 1028,-28
+220,45,5,Jack,Colten Montgomery 1019,-9
+221,46,6,Jack,Albert Tamm 1021,-14
+222,1,1,Matt,Calvin Heimburg 1046,-25
+223,18,2,Matt,Adam Hammes 1032,-16
+224,19,3,Matt,Luke Humphries 1017,-14
+225,36,4,Matt,Scott Withers 1027,-7
+226,37,5,Matt,Austin Turner 1020,-24
+227,54,6,Matt,Gavin Babcock 1013,-11
+228,2,1,Spanky,Gannon Buhr 1042,-28
+229,17,2,Spanky,Aaron Gossage 1030,-11
+230,20,3,Spanky,Cole Redalen 1030,-9
+231,35,4,Spanky,Gavin Rathbun 1022,-7
+232,38,5,Spanky,Paul Oman 1022,-23
+233,53,6,Spanky,Jeremy Koling 1019,-20
+234,3,1,Zach,Chris Dickerson 1041,-27
+235,16,2,Zach,Isaac Robinson 1033,-40
+236,21,3,Zach,Mason Ford 1030,-30
+237,34,4,Zach,Emerson Keith 1027,-6
+238,39,5,Zach,Sullivan Tipton 1024,-19
+239,52,6,Zach,Jakub Semerád 1015,-10
+248,2,1,Brandon,Gannon Buhr 1042,-21
+249,17,2,Brandon,Garrett Gurthie 1030,-15
+250,20,3,Brandon,Adam Hammes 1032,-14
+251,35,4,Brandon,Gregg Barsby 1022,9
+252,38,5,Brandon,Linus Carlsson 1026,-1
+253,53,6,Brandon,Andrew Fish 1016,-9
+254,8,1,Dann,Corey Ellis 1032,-11
+255,11,2,Dann,James Proctor 1027,-17
+256,26,3,Dann,Scott Withers 1027,-2
+257,29,4,Dann,Robert Burridge 1017,-11
+258,44,5,Dann,Jacob Courtis 1012,-10
+259,47,6,Dann,Jakub Semerád 1015,-14
+260,4,1,Dave,Eagle McMahon 1042,-6
+261,15,2,Dave,Drew Gibson 1033,-14
+262,22,3,Dave,Kevin Jones 1033,-4
+263,33,4,Dave,Brodie Smith 1024,-11
+264,40,5,Dave,Evan Scott 1015,-11
+265,51,6,Dave,Casey White 1017,-2
+266,1,1,Greg G,Calvin Heimburg 1046,-17
+267,18,2,Greg G,Nathan Sexton 1030,-9
+268,19,3,Greg G,Väinö Mäkelä 1028,-16
+269,36,4,Greg G,Matt Bell 1021,-9
+270,37,5,Greg G,Øyvind Jarnes 1021,-10
+271,54,6,Greg G,Jake Hebenheimer 1018,-15
+272,7,1,Greg T,Isaac Robinson 1033,-18
+273,12,2,Greg T,James Conrad 1031,-9
+274,25,3,Greg T,Austin Turner 1020,-9
+275,30,4,Greg T,Eric Oakley 1017,-14
+276,43,5,Greg T,Cody Kirkland 1017,-13
+277,48,6,Greg T,Tuomas Hyytiäinen 1006,-8
+278,5,1,Jack,Simon Lizotte 1040,-7
+279,14,2,Jack,Chris Clemons 1029,-5
+280,23,3,Jack,Emerson Keith 1027,-23
+281,32,4,Jack,Gavin Rathbun 1022,-15
+282,41,5,Jack,Chandler Kramer 1020,-11
+283,50,6,Jack,Colten Montgomery 1019,-11
+284,9,1,Matt,Niklas Anttila 1032,-14
+285,10,2,Matt,Ezra Aderhold 1032,-3
+286,27,3,Matt,Nikko Locastro 1031,-10
+287,28,4,Matt,Joshua Anthon 1023,-3
+288,45,5,Matt,Luke Humphries 1017,0
+289,46,6,Matt,Tristan Tanner 1011,-12
+290,3,1,Spanky,Kyle Klein 1040,-9
+291,16,2,Spanky,Alden Harris 1030,-14
+292,21,3,Spanky,Cole Redalen 1030,-18
+293,34,4,Spanky,Joona Heinänen 1025,-10
+294,39,5,Spanky,Paul Oman 1022,-13
+295,52,6,Spanky,Austin Hannum 1016,-11
+296,6,1,Zach,Anthony Barela 1039,-17
+297,13,2,Zach,Aaron Gossage 1030,-18
+298,24,3,Zach,Bradley Williams 1027,-11
+299,31,4,Zach,Albert Tamm 1021,-11
+300,42,5,Zach,Luke Samson 1019,-10
+301,49,6,Zach,Chandler Fry 1012,-6
+310,3,1,Brandon,Gannon Buhr 1045,-22
+311,16,2,Brandon,Adam Hammes 1031,-30
+312,21,3,Brandon,Drew Gibson 1031,-13
+313,34,4,Brandon,Ezra Robinson 1021,-16
+314,39,5,Brandon,Paul Oman 1022,-2
+315,52,6,Brandon,Scott Withers 1024,3
+316,7,1,Dann,Isaac Robinson 1037,-28
+317,12,2,Dann,Cole Redalen 1030,-16
+318,25,3,Dann,Bradley Williams 1031,-16
+319,30,4,Dann,Emerson Keith 1020,-1
+320,43,5,Dann,Jakub Semerád 1016,-20
+321,48,6,Dann,Jake Hebenheimer 1015,-10
+322,5,1,Dave,Joshua Anthon 1027,0
+323,14,2,Dave,Ezra Aderhold 1032,-24
+324,23,3,Dave,Corey Ellis 1030,-29
+325,32,4,Dave,Andrew Marwede 1032,3
+326,41,5,Dave,Evan Scott 1017,-3
+327,50,6,Dave,Chandler Fry 1013,-10
+328,1,1,Greg G,Eagle McMahon 1046,2
+329,18,2,Greg G,Väinö Mäkelä 1031,-2
+330,19,3,Greg G,Nathan Sexton 1030,-2
+331,36,4,Greg G,Austin Turner 1025,2
+332,37,5,Greg G,Eric Oakley 1019,-6
+333,54,6,Greg G,Colten Montgomery 1016,-6
+334,8,1,Greg T,Simon Lizotte 1041,-18
+335,11,2,Greg T,Aaron Gossage 1030,-30
+336,26,3,Greg T,Benjamin Callaway 1024,-13
+337,29,4,Greg T,Robert Burridge 1022,-14
+338,44,5,Greg T,Chandler Kramer 1021,-14
+339,47,6,Greg T,Cody Kirkland 1016,-2
+340,4,1,Jack,Richard Wysocki 1043,-22
+341,15,2,Jack,James Conrad 1029,-21
+342,22,3,Jack,Chris Clemons 1030,-6
+343,33,4,Jack,Gregg Barsby 1023,5
+344,40,5,Jack,Matt Bell 1021,-2
+345,51,6,Jack,Øyvind Jarnes 1021,2
+346,9,1,Matt,Niklas Anttila 1037,2
+347,10,2,Matt,Garrett Gurthie 1031,-6
+348,27,3,Matt,Nikko Locastro 1027,-5
+349,28,4,Matt,Albert Tamm 1022,-4
+350,45,5,Matt,Linus Carlsson 1026,4
+351,46,6,Matt,Gavin Babcock 1012,-6
+352,2,1,Spanky,Calvin Heimburg 1045,-24
+353,17,2,Spanky,Alden Harris 1032,-25
+354,20,3,Spanky,Thomas Gilbert 1016,-8
+355,35,4,Spanky,Joona Heinänen 1024,-19
+356,38,5,Spanky,Brodie Smith 1020,-21
+357,53,6,Spanky,Jake Monn 1013,-13
+358,6,1,Zach,Anthony Barela 1039,-21
+359,13,2,Zach,James Proctor 1027,-25
+360,24,3,Zach,Andrew Presnell 1028,-18
+361,31,4,Zach,Kevin Jones 1030,-14
+362,42,5,Zach,Gavin Rathbun 1020,5
+363,49,6,Zach,Ty Love 1018,-18
+372,1,1,Brandon,Calvin Heimburg 1043,-15
+373,18,2,Brandon,Evan Smith 1030,-7
+374,19,3,Brandon,Andrew Marwede 1029,-4
+375,36,4,Brandon,Brodie Smith 1022,-11
+376,37,5,Brandon,Ty Love 1021,-9
+377,54,6,Brandon,Andrew Fish 1014,-8
+378,6,1,Dann,Isaac Robinson 1038,-16
+379,13,2,Dann,James Conrad 1032,0
+380,24,3,Dann,Jeremy Koling 1019,-3
+381,31,4,Dann,Ezra Robinson 1023,-15
+382,42,5,Dann,Drew Gibson 1028,-1
+383,49,6,Dann,Garett Everson 1017,-1
+384,2,1,Dave,Richard Wysocki 1044,-9
+385,17,2,Dave,Corey Ellis 1033,-10
+386,20,3,Dave,Cole Redalen 1030,-2
+387,35,4,Dave,Garrett Gurthie 1030,-8
+388,38,5,Dave,Gregg Barsby 1023,-15
+389,53,6,Dave,Kevin Kiefer III 1016,3
+390,7,1,Greg G,Anthony Barela 1039,-14
+391,12,2,Greg G,Chris Dickerson 1040,-9
+392,25,3,Greg G,Adam Hammes 1029,-9
+393,30,4,Greg G,Benjamin Callaway 1026,-10
+394,43,5,Greg G,Chris Clemons 1027,-11
+395,48,6,Greg G,Luke Taylor 1023,-2
+396,3,1,Greg T,Gannon Buhr 1043,-19
+397,16,2,Greg T,Alden Harris 1032,-5
+398,21,3,Greg T,Silas Schultz 1026,-3
+399,34,4,Greg T,Gavin Rathbun 1021,-6
+400,39,5,Greg T,Chandler Kramer 1021,-7
+401,52,6,Greg T,Parker Welck 1010,-3
+402,4,1,Jack,Linus Carlsson 1021,2
+403,15,2,Jack,Ezra Aderhold 1033,-9
+404,22,3,Jack,Kevin Jones 1028,-13
+405,33,4,Jack,Emerson Keith 1020,-9
+406,40,5,Jack,Albert Tamm 1020,-7
+407,51,6,Jack,Eric Oakley 1021,-7
+408,5,1,Matt,Matthew Orum 1040,-9
+409,14,2,Matt,James Proctor 1030,-6
+410,23,3,Matt,Andrew Presnell 1029,1
+411,32,4,Matt,Mason Ford 1030,-10
+412,41,5,Matt,Paul Oman 1021,-5
+413,50,6,Matt,Chandler Fry 1016,-2
+414,8,1,Spanky,Simon Lizotte 1036,-14
+415,11,2,Spanky,Kyle Klein 1040,-2
+416,26,3,Spanky,Sullivan Tipton 1025,1
+417,29,4,Spanky,Evan Scott 1021,-2
+418,44,5,Spanky,Colten Montgomery 1019,0
+419,47,6,Spanky,Mason Marchbanks 1017,-3
+420,9,1,Zach,Joel Freeman 1036,-6
+421,10,2,Zach,Aaron Gossage 1034,-8
+422,27,3,Zach,Nikko Locastro 1030,-6
+423,28,4,Zach,Robert Burridge 1022,-8
+424,45,5,Zach,Austin Turner 1023,-8
+425,46,6,Zach,Jake Hebenheimer 1015,-9
+434,9,1,Brandon,Sullivan Tipton 1025,-23
+435,10,2,Brandon,AJ Carey 1010,12
+436,27,3,Brandon,G.T. Hancock 1007,-11
+437,28,4,Brandon,Nathan Queen 1005,3
+438,4,1,Dann,John Jones 1003,-11
+439,15,2,Dann,Ty Love 1021,-12
+440,22,3,Dann,Joseph Anderson 1027,-26
+441,33,4,Dann,Tanner McCartney 1004,-3
+442,2,1,Dave,Gannon Buhr 1043,-28
+443,17,2,Dave,Robert Burridge 1022,-19
+444,20,3,Dave,Aidan Scott 1021,-9
+445,35,4,Dave,Nick Newton 1005,-16
+446,7,1,Greg G,Cole Redalen 1030,-13
+447,12,2,Greg G,Evan Scott 1021,-16
+448,25,3,Greg G,Paul Ulibarri 1016,-5
+449,30,4,Greg G,Braeden Sides 1010,0
+450,3,1,Greg T,Parker Welck 1010,-9
+451,16,2,Greg T,Chandler Kramer 1021,-10
+452,21,3,Greg T,Micah Groth 1026,-11
+453,34,4,Greg T,Justin Rosak 1002,-9
+454,5,1,Jack,Jake Brown 1004,2
+455,14,2,Jack,Emerson Keith 1020,-19
+456,23,3,Jack,Jake Monn 1013,-8
+457,32,4,Jack,Daniel Brooks-Wells 0998,5
+458,6,1,Matt,Matthew Orum 1040,-16
+459,13,2,Matt,Aaron Hieb 1000,6
+460,24,3,Matt,Kevin Kiefer III 1016,-22
+461,31,4,Matt,Bo McLaughlin 0998,-1
+462,1,1,Spanky,Isaac Heinen 1004,-2
+463,18,2,Spanky,Fredy Meza 1010,-2
+464,19,3,Spanky,Chris Clemons 1027,-15
+465,36,4,Spanky,Jake Lauber 1004,-3
+466,8,1,Zach,Matthew Barajas 1002,0
+467,11,2,Zach,Benjamin Callaway 1026,-11
+468,26,3,Zach,Jake Hebenheimer 1015,-25
+469,29,4,Zach,Mason Marchbanks 1017,2
+496,6,1,Brandon,Matthew Orum 1040,-23
+497,13,2,Brandon,Anthony Barela 1039,-27
+498,24,3,Brandon,Matt Bell 1026,-9
+499,31,4,Brandon,Gregg Barsby 1024,-20
+500,42,5,Brandon,Paul Ulibarri 1017,-16
+501,49,6,Brandon,Øyvind Jarnes 1016,-9
+502,9,1,Dann,Aaron Gossage 1035,-15
+503,10,2,Dann,Niklas Anttila 1037,-20
+504,27,3,Dann,Adam Hammes 1025,-23
+505,28,4,Dann,Robert Burridge 1020,-15
+506,45,5,Dann,Tristan Tanner 1017,1
+507,46,6,Dann,Mathias Villota 1011,-4
+508,7,1,Dave,Isaac Robinson 1037,-24
+509,12,2,Dave,Chris Dickerson 1039,-26
+510,25,3,Dave,Benjamin Callaway 1028,-26
+511,30,4,Dave,Joona Heinänen 1025,-6
+512,43,5,Dave,Aidan Scott 1021,-8
+513,48,6,Dave,Casey White 1016,5
+514,3,1,Greg G,Richard Wysocki 1044,-28
+515,16,2,Greg G,Bradley Williams 1030,-26
+516,21,3,Greg G,Lauri Lehtinen 1033,-18
+517,34,4,Greg G,Daniel Davidsson 1021,-15
+518,39,5,Greg G,Thomas Gilbert 1018,-5
+519,52,6,Greg G,Tuomas Hyytiäinen 1016,-16
+520,8,1,Greg T,James Conrad 1031,-9
+521,11,2,Greg T,Kyle Klein 1038,-32
+522,26,3,Greg T,Andrew Presnell 1030,-7
+523,29,4,Greg T,Eric Oakley 1024,-9
+524,44,5,Greg T,Jeremy Koling 1017,-13
+525,47,6,Greg T,Scott Stokely 1013,-2
+526,1,1,Jack,Calvin Heimburg 1047,-30
+527,18,2,Jack,Ezra Aderhold 1033,-31
+528,19,3,Jack,Kevin Jones 1029,-17
+529,36,4,Jack,Nathan Sexton 1024,-18
+530,37,5,Jack,Chandler Kramer 1022,-17
+531,54,6,Jack,Silver Lätt 1012,-4
+532,2,1,Matt,Paul McBeth 1047,-13
+533,17,2,Matt,Corey Ellis 1034,-33
+534,20,3,Matt,Garrett Gurthie 1028,-13
+535,35,4,Matt,Brodie Smith 1022,-14
+536,38,5,Matt,Sullivan Tipton 1025,-16
+537,53,6,Matt,Albert Tamm 1019,-21
+538,4,1,Spanky,Eagle McMahon 1043,-30
+539,15,2,Spanky,Alden Harris 1034,-21
+540,22,3,Spanky,Ezra Robinson 1026,-24
+541,33,4,Spanky,Jakub Semerád 1023,-17
+542,40,5,Spanky,Luke Humphries 1016,-1
+543,51,6,Spanky,Gavin Babcock 1017,-21
+544,5,1,Zach,James Proctor 1031,-20
+545,14,2,Zach,Väinö Mäkelä 1030,-20
+546,23,3,Zach,Jesse Nieminen 1027,-3
+547,32,4,Zach,Mikael Häme 1024,-2
+548,41,5,Zach,Mauri Villmann 1021,-22
+549,50,6,Zach,Kristian Kuoksa 1015,-6
+558,5,1,Brandon,Matthew Orum 1040,-24
+559,14,2,Brandon,Aaron Gossage 1035,-24
+560,23,3,Brandon,Joseph Anderson 1029,-16
+561,32,4,Brandon,Evan Smith 1029,-17
+562,41,5,Brandon,Micah Groth 1026,-16
+563,50,6,Brandon,Paul Oman 1020,-11
+564,8,1,Dann,Cole Redalen 1030,-22
+565,11,2,Dann,Adam Hammes 1025,-13
+566,26,3,Dann,Benjamin Callaway 1028,-14
+567,29,4,Dann,Casey White 1016,-16
+568,44,5,Dann,Luke Taylor 1022,-16
+569,47,6,Dann,Jake Hebenheimer 1016,-15
+570,6,1,Dave,Chris Dickerson 1039,-17
+571,13,2,Dave,Anthony Barela 1039,-10
+572,24,3,Dave,Kevin Jones 1029,-24
+573,31,4,Dave,Brodie Smith 1022,-11
+574,42,5,Dave,Robert Burridge 1020,-11
+575,49,6,Dave,Kevin Kiefer III 1017,-18
+576,1,1,Greg G,Calvin Heimburg 1047,-30
+577,18,2,Greg G,Bradley Williams 1030,-22
+578,19,3,Greg G,Ezra Robinson 1026,-23
+579,36,4,Greg G,Eric Oakley 1024,-20
+580,37,5,Greg G,Evan Scott 1021,-18
+581,54,6,Greg G,Tim Barham 1014,-16
+582,9,1,Greg T,Simon Lizotte 1036,-21
+583,10,2,Greg T,James Proctor 1031,-19
+584,27,3,Greg T,Emerson Keith 1023,-8
+585,28,4,Greg T,Chris Clemons 1026,-20
+586,45,5,Greg T,Jeremy Koling 1017,-23
+587,46,6,Greg T,Sullivan Tipton 1018,-19
+588,7,1,Jack,Isaac Robinson 1037,-28
+589,12,2,Jack,James Conrad 1031,-22
+590,25,3,Jack,Nikko Locastro 1027,-25
+591,30,4,Jack,Ty Love 1024,-9
+592,43,5,Jack,Gavin Rathbun 1020,-7
+593,48,6,Jack,Chandler Fry 1015,-19
+594,4,1,Matt,Richard Wysocki 1044,-23
+595,15,2,Matt,Joel Freeman 1035,-10
+596,22,3,Matt,Mason Ford 1030,-16
+597,33,4,Matt,Paul Ulibarri 1017,-26
+598,40,5,Matt,Garrett Gurthie 1028,-6
+599,51,6,Matt,Austin Hannum 1015,-13
+600,2,1,Spanky,Gannon Buhr 1044,-32
+601,17,2,Spanky,Alden Harris 1034,-20
+602,20,3,Spanky,Ezra Aderhold 1033,-10
+603,35,4,Spanky,Silas Schultz 1027,-7
+604,38,5,Spanky,Matt Bell 1026,-23
+605,53,6,Spanky,Gavin Babcock 1017,-14
+606,3,1,Zach,Kyle Klein 1038,-26
+607,16,2,Zach,Harper Thompson 1018,0
+608,21,3,Zach,Andrew Presnell 1030,-12
+609,34,4,Zach,Nathan Sexton 1024,-17
+610,39,5,Zach,Chandler Kramer 1022,-17
+611,52,6,Zach,Luke Samson 1015,8
+631,9,1,Brandon,Ezra Robinson 1018,-18
+632,10,2,Brandon,Andrew Marwede 1032,-22
+633,27,3,Brandon,Adam Hammes 1030,-29
+634,28,4,Brandon,Nathan Sexton 1035,-24
+635,45,5,Brandon,Casey White 1017,-2
+636,46,6,Brandon,Sullivan Tipton 1018,-14
+637,4,1,Dann,Chris Dickerson 1044,-19
+638,15,2,Dann,Aaron Gossage 1028,-14
+639,22,3,Dann,Emerson Keith 1024,-13
+640,33,4,Dann,Andrew Presnell 1024,-15
+641,40,5,Dann,Jake Hebenheimer 1021,-7
+642,51,6,Dann,Andrew Fish 1015,-14
+643,6,1,Dave,Kyle Klein 1039,-31
+644,13,2,Dave,Kevin Jones 1031,-27
+645,24,3,Dave,Ezra Aderhold 1029,-7
+646,31,4,Dave,Brodie Smith 1025,-17
+647,42,5,Dave,Chandler Kramer 1022,-11
+648,49,6,Dave,Connor O'Reilly 1017,-6
+649,5,1,Greg G,Gannon Buhr 1043,-18
+650,14,2,Greg G,Joel Freeman 1037,-23
+651,23,3,Greg G,Cale Leiviska 1029,-25
+652,32,4,Greg G,Cole Redalen 1027,-28
+653,41,5,Greg G,Luke Samson 1021,-11
+654,50,6,Greg G,Paul Oman 1020,-22
+655,7,1,Greg T,Matthew Orum 1040,-25
+656,12,2,Greg T,Corey Ellis 1033,1
+657,25,3,Greg T,Mason Ford 1027,-21
+658,30,4,Greg T,James Proctor 1020,-23
+659,43,5,Greg T,Zach Arlinghaus 1008,-16
+660,48,6,Greg T,Robert Burridge 1008,-11
+661,8,1,Jack,James Conrad 1033,-26
+662,11,2,Jack,Gregg Barsby 1030,-4
+663,26,3,Jack,Garrett Gurthie 1031,-8
+664,29,4,Jack,Matt Bell 1021,-15
+665,44,5,Jack,Paul Ulibarri 1022,3
+666,47,6,Jack,Albert Tamm 1021,-14
+667,3,1,Matt,Eagle McMahon 1043,-15
+668,16,2,Matt,Isaac Robinson 1031,-14
+669,21,3,Matt,Chris Clemons 1033,-20
+670,34,4,Matt,Gavin Rathbun 1027,-7
+671,39,5,Matt,Thomas Gilbert 1020,-4
+672,52,6,Matt,Evan Scott 1013,-15
+673,1,1,Spanky,Paul McBeth 1050,-22
+674,18,2,Spanky,Alden Harris 1030,-16
+675,19,3,Spanky,Bradley Williams 1029,-23
+676,36,4,Spanky,Benjamin Callaway 1024,-15
+677,37,5,Spanky,Luke Humphries 1016,-20
+678,54,6,Spanky,Jakub Semerád 1017,-4
+679,2,1,Zach,Calvin Heimburg 1041,-28
+680,17,2,Zach,Nikko Locastro 1031,-21
+681,20,3,Zach,Scott Withers 1030,-17
+682,35,4,Zach,Väinö Mäkelä 1027,-14
+683,38,5,Zach,Tony Ferro 1026,-8
+684,53,6,Zach,Chandler Fry 1017,-6
+693,4,1,Brandon,Joel Freeman 1036,-27
+694,15,2,Brandon,Andrew Marwede 1033,-19
+695,22,3,Brandon,Joona Heinänen 1025,-15
+696,33,4,Brandon,Ezra Robinson 1020,-9
+697,7,1,Dann,Kevin Jones 1033,0
+698,12,2,Dann,James Proctor 1021,-26
+699,25,3,Dann,Niklas Anttila 1029,-22
+700,30,4,Dann,Parker Welck 1013,-6
+701,8,1,Dave,Adam Hammes 1031,-8
+702,11,2,Dave,Garrett Gurthie 1030,-18
+703,26,3,Dave,Brodie Smith 1024,-20
+704,29,4,Dave,Robert Burridge 1013,-7
+705,9,1,Greg G,Nikko Locastro 1033,-18
+706,10,2,Greg G,Cole Redalen 1029,-7
+707,27,3,Greg G,Emerson Keith 1029,-16
+708,28,4,Greg G,Albert Tamm 1022,1
+709,1,1,Greg T,Calvin Heimburg 1042,-33
+710,18,2,Greg T,Alden Harris 1030,-24
+711,19,3,Greg T,Gregg Barsby 1028,-13
+712,36,4,Greg T,Raven Newsom 1013,-9
+713,5,1,Jack,Anthony Barela 1042,-27
+714,14,2,Jack,Chris Clemons 1031,-20
+715,23,3,Jack,Gavin Rathbun 1024,-9
+716,32,4,Jack,Jake Hebenheimer 1019,-13
+717,2,1,Matt,Gannon Buhr 1041,-15
+718,17,2,Matt,Ezra Aderhold 1029,-22
+719,20,3,Matt,Luke Samson 1020,-19
+720,35,4,Matt,Fredy Meza 1009,-8
+721,6,1,Spanky,Kyle Klein 1040,-21
+722,13,2,Spanky,Aaron Gossage 1029,-21
+723,24,3,Spanky,Bradley Williams 1028,-18
+724,31,4,Spanky,Paul Oman 1022,-14
+725,3,1,Zach,Chandler Kramer 1021,-9
+726,16,2,Zach,Isaac Robinson 1032,-6
+727,21,3,Zach,Väinö Mäkelä 1027,-7
+728,34,4,Zach,Benjamin Callaway 1022,-13
+755,4,1,Brandon,Chris Dickerson 1042,-9
+756,15,2,Brandon,Andrew Presnell 1024,-5
+757,22,3,Brandon,Ezra Robinson 1020,-1
+758,33,4,Brandon,Evan Scott 1015,4
+759,7,1,Dann,Niklas Anttila 1029,-6
+760,12,2,Dann,Väinö Mäkelä 1027,-10
+761,25,3,Dann,Jakub Semerád 1014,-9
+762,30,4,Dann,Robert Burridge 1013,0
+763,2,1,Dave,Gannon Buhr 1041,-18
+764,17,2,Dave,Mason Ford 1028,-9
+765,20,3,Dave,Brodie Smith 1024,5
+766,35,4,Dave,Casey White 1016,13
+767,9,1,Greg G,James Proctor 1027,2
+768,10,2,Greg G,Benjamin Callaway 1022,-11
+769,27,3,Greg G,Colten Montgomery 1020,15
+770,28,4,Greg G,Eric Oakley 1014,-7
+771,3,1,Greg T,Kyle Klein 1040,-14
+772,16,2,Greg T,Bradley Williams 1028,-16
+773,21,3,Greg T,Joona Heinänen 1025,11
+774,34,4,Greg T,Andrew Fish 1015,2
+775,1,1,Jack,Calvin Heimburg 1042,-13
+776,18,2,Jack,Garrett Gurthie 1030,-8
+777,19,3,Jack,Emerson Keith 1029,10
+778,36,4,Jack,Chandler Kramer 1021,0
+779,8,1,Matt,Kevin Jones 1033,8
+780,11,2,Matt,James Conrad 1036,10
+781,26,3,Matt,Jeremy Koling 1018,8
+782,29,4,Matt,Thomas Gilbert 1015,24
+783,6,1,Spanky,Isaac Robinson 1032,-12
+784,13,2,Spanky,Andrew Marwede 1033,-6
+785,24,3,Spanky,Aidan Scott 1018,2
+786,31,4,Spanky,Jake Hebenheimer 1019,3
+787,5,1,Zach,Matthew Orum 1040,-2
+788,14,2,Zach,Chris Clemons 1031,5
+789,23,3,Zach,Luke Humphries 1018,9
+790,32,4,Zach,Albert Tamm 1022,-6
+817,9,1,Brandon,Kyle Klein 1040,-26
+818,10,2,Brandon,Joel Freeman 1037,-17
+819,27,3,Brandon,Andrew Marwede 1031,-16
+820,28,4,Brandon,Joona Heinänen 1025,-11
+821,45,5,Brandon,Jeremy Koling 1019,-19
+822,46,6,Brandon,Andrew Fish 1016,-8
+823,2,1,Dann,Eagle McMahon 1042,-28
+824,17,2,Dann,Cole Redalen 1030,-21
+825,20,3,Dann,Austin Turner 1020,-16
+826,35,4,Dann,Jakub Semerád 1015,-14
+827,38,5,Dann,Andrew Presnell 1025,-26
+828,53,6,Dann,Mason Marchbanks 1006,-20
+829,5,1,Dave,Chris Dickerson 1041,-22
+830,14,2,Dave,Kevin Jones 1033,-15
+831,23,3,Dave,Alden Harris 1030,-22
+832,32,4,Dave,Albert Tamm 1021,-17
+833,41,5,Dave,Robert Burridge 1017,-24
+834,50,6,Dave,Casey White 1017,-3
+835,1,1,Greg G,Calvin Heimburg 1046,-31
+836,18,2,Greg G,Adam Hammes 1032,-15
+837,19,3,Greg G,Mason Ford 1030,-10
+838,36,4,Greg G,Paul Oman 1022,-9
+839,37,5,Greg G,Aidan Scott 1018,-12
+840,54,6,Greg G,Thomas Gilbert 1017,-20
+841,6,1,Greg T,Paul McBeth 1046,-22
+842,13,2,Greg T,Ezra Aderhold 1032,-23
+843,24,3,Greg T,Drew Gibson 1033,-21
+844,31,4,Greg T,Silas Schultz 1021,-23
+845,42,5,Greg T,Ezra Robinson 1020,-22
+846,49,6,Greg T,Kevin Kiefer III 1015,1
+847,8,1,Jack,Anthony Barela 1039,-22
+848,11,2,Jack,James Conrad 1031,-26
+849,26,3,Jack,Chris Clemons 1029,-20
+850,29,4,Jack,Garrett Gurthie 1030,-18
+851,44,5,Jack,Chandler Kramer 1020,-8
+852,47,6,Jack,Colten Montgomery 1019,-12
+853,3,1,Matt,Simon Lizotte 1040,-21
+854,16,2,Matt,James Proctor 1027,-24
+855,21,3,Matt,Corey Ellis 1032,-26
+856,34,4,Matt,Bradley Williams 1027,-26
+857,39,5,Matt,Eric Oakley 1017,-15
+858,52,6,Matt,Emerson Keith 1027,-19
+859,4,1,Spanky,Gannon Buhr 1042,-25
+860,15,2,Spanky,Niklas Anttila 1032,-22
+861,22,3,Spanky,Aaron Gossage 1030,-21
+862,33,4,Spanky,Brodie Smith 1024,-8
+863,40,5,Spanky,Gavin Rathbun 1022,-12
+864,51,6,Spanky,Paul Ulibarri 1015,-10
+865,7,1,Zach,Nikko Locastro 1031,-6
+866,12,2,Zach,Isaac Robinson 1033,-28
+867,25,3,Zach,Väinö Mäkelä 1028,-22
+868,30,4,Zach,Benjamin Callaway 1019,-28
+869,43,5,Zach,Luke Humphries 1017,-15
+870,48,6,Zach,Jake Hebenheimer 1018,-8
+879,3,1,Brandon,Eagle McMahon 1046,-31
+880,16,2,Brandon,Andrew Marwede 1032,-3
+881,21,3,Brandon,Joona Heinänen 1024,-12
+882,34,4,Brandon,Paul Oman 1022,-14
+883,4,1,Dann,Isaac Robinson 1037,-19
+884,15,2,Dann,Corey Ellis 1030,-20
+885,22,3,Dann,Cale Leiviska 1030,-18
+886,33,4,Dann,Jakub Semerád 1016,-23
+887,2,1,Dave,Gannon Buhr 1045,-26
+888,17,2,Dave,Drew Gibson 1031,-22
+889,20,3,Dave,Nathan Sexton 1030,-16
+890,35,4,Dave,Evan Scott 1017,-11
+891,9,1,Greg G,Adam Hammes 1031,-1
+892,10,2,Greg G,Cole Redalen 1030,-22
+893,27,3,Greg G,Scott Withers 1024,-5
+894,28,4,Greg G,Ty Love 1018,-6
+895,5,1,Greg T,Anthony Barela 1039,-19
+896,14,2,Greg T,Aaron Gossage 1030,-24
+897,23,3,Greg T,Andrew Presnell 1028,-28
+898,32,4,Greg T,Gavin Rathbun 1020,-11
+899,6,1,Jack,Niklas Anttila 1037,-25
+900,13,2,Jack,James Conrad 1029,-21
+901,24,3,Jack,Øyvind Jarnes 1021,-12
+902,31,4,Jack,Chris Nelson 1021,-13
+903,1,1,Matt,Calvin Heimburg 1045,-28
+904,18,2,Matt,Richard Wysocki 1043,-22
+905,19,3,Matt,Bradley Williams 1031,-20
+906,36,4,Matt,Linus Carlsson 1026,-14
+907,8,1,Spanky,Alden Harris 1032,-16
+908,11,2,Spanky,Ezra Aderhold 1032,-22
+909,26,3,Spanky,Robert Burridge 1022,-14
+910,29,4,Spanky,Albert Tamm 1022,-5
+911,7,1,Zach,Väinö Mäkelä 1031,-17
+912,12,2,Zach,Garrett Gurthie 1031,-22
+913,25,3,Zach,Kevin Jones 1030,-15
+914,30,4,Zach,Nikko Locastro 1027,-24
+941,5,1,Brandon,Anthony Barela 1039,-14
+942,14,2,Brandon,Ezra Aderhold 1032,-20
+943,23,3,Brandon,Chris Clemons 1030,-11
+944,32,4,Brandon,Emerson Keith 1020,-22
+945,41,5,Brandon,Linus Carlsson 1026,1
+946,50,6,Brandon,Zach Arlinghaus 1013,-5
+947,7,1,Dann,Isaac Robinson 1037,-16
+948,12,2,Dann,Adam Hammes 1031,-7
+949,25,3,Dann,Andrew Presnell 1028,-19
+950,30,4,Dann,Ezra Robinson 1021,-25
+951,43,5,Dann,Carter Ahrens 1012,-8
+952,48,6,Dann,Mason Marchbanks 1013,-22
+953,4,1,Dave,Richard Wysocki 1043,-25
+954,15,2,Dave,Kevin Kiefer III 1014,-14
+955,22,3,Dave,Mason Ford 1030,-11
+956,33,4,Dave,Evan Scott 1017,-13
+957,40,5,Dave,Luke Humphries 1014,-9
+958,51,6,Dave,Colten Montgomery 1016,-6
+959,1,1,Greg G,Calvin Heimburg 1045,-30
+960,18,2,Greg G,Joel Freeman 1037,-22
+961,19,3,Greg G,Bradley Williams 1031,-14
+962,36,4,Greg G,Jeremy Koling 1020,-4
+963,37,5,Greg G,Ty Love 1018,-21
+964,54,6,Greg G,Gavin Babcock 1012,-15
+965,8,1,Greg T,Corey Ellis 1030,-16
+966,11,2,Greg T,Cole Redalen 1030,-14
+967,26,3,Greg T,Silas Schultz 1026,-21
+968,29,4,Greg T,Brodie Smith 1020,-5
+969,44,5,Greg T,Sullivan Tipton 1025,-19
+970,47,6,Greg T,Austin Hannum 1016,-11
+971,3,1,Jack,Chris Dickerson 1039,-20
+972,16,2,Jack,Kevin Jones 1030,-19
+973,21,3,Jack,Garrett Gurthie 1031,-11
+974,34,4,Jack,Chandler Kramer 1021,-19
+975,39,5,Jack,Jake Monn 1013,-2
+976,52,6,Jack,Thomas Gilbert 1016,-16
+977,2,1,Matt,Gannon Buhr 1045,-11
+978,17,2,Matt,Garett Everson 1011,-20
+979,20,3,Matt,Benjamin Callaway 1024,-24
+980,35,4,Matt,Eric Oakley 1019,-15
+981,38,5,Matt,Gavin Rathbun 1020,-21
+982,53,6,Matt,Logan Harpool 1010,-3
+983,9,1,Spanky,Alden Harris 1032,-27
+984,10,2,Spanky,Evan Smith 1030,-27
+985,27,3,Spanky,Andrew Marwede 1032,-9
+986,28,4,Spanky,Robert Burridge 1022,-9
+987,45,5,Spanky,Austin Turner 1025,-18
+988,46,6,Spanky,Albert Tamm 1022,-21
+989,6,1,Zach,Aaron Gossage 1030,-21
+990,13,2,Zach,Matthew Orum 1040,-27
+991,24,3,Zach,Luke Samson 1017,-19
+992,31,4,Zach,Nikko Locastro 1027,-11
+993,42,5,Zach,Luke Taylor 1019,-15
+994,49,6,Zach,Jake Hebenheimer 1015,-20
+1003,8,1,Brandon,Simon Lizotte 1036,-25
+1004,11,2,Brandon,James Proctor 1030,-29
+1005,26,3,Brandon,Cole Redalen 1030,-32
+1006,29,4,Brandon,Sullivan Tipton 1025,-24
+1007,44,5,Brandon,Andrew Marwede 1029,-22
+1008,47,6,Brandon,Paul Ulibarri 1016,-16
+1009,3,1,Dann,Isaac Robinson 1038,-21
+1010,16,2,Dann,Alden Harris 1032,-28
+1011,21,3,Dann,Ezra Robinson 1023,-26
+1012,34,4,Dann,Ty Love 1021,-20
+1013,39,5,Dann,Linus Carlsson 1021,-19
+1014,52,6,Dann,Jake Hebenheimer 1015,-11
+1015,4,1,Dave,Richard Wysocki 1044,-37
+1016,15,2,Dave,Corey Ellis 1033,-19
+1017,22,3,Dave,Kyle Klein 1040,-3
+1018,33,4,Dave,Drew Gibson 1028,-6
+1019,40,5,Dave,Evan Scott 1021,-22
+1020,51,6,Dave,Chandler Fry 1016,-10
+1021,9,1,Greg G,Matthew Orum 1040,-24
+1022,10,2,Greg G,Ezra Aderhold 1033,-25
+1023,27,3,Greg G,Andrew Presnell 1029,-28
+1024,28,4,Greg G,Chris Clemons 1027,-18
+1025,45,5,Greg G,Luke Taylor 1023,-23
+1026,46,6,Greg G,Eric Oakley 1021,-20
+1027,5,1,Greg T,Chris Dickerson 1040,-18
+1028,14,2,Greg T,Aaron Gossage 1034,-20
+1029,23,3,Greg T,Benjamin Callaway 1026,-21
+1030,32,4,Greg T,Robert Burridge 1022,-14
+1031,41,5,Greg T,Emerson Keith 1020,-25
+1032,50,6,Greg T,Gavin Rathbun 1021,-14
+1033,6,1,Jack,Anthony Barela 1039,-27
+1034,13,2,Jack,Kevin Jones 1028,-14
+1035,24,3,Jack,Nikko Locastro 1030,-25
+1036,31,4,Jack,Matt Bell 1026,-15
+1037,42,5,Jack,Chandler Kramer 1021,-26
+1038,49,6,Jack,Jake Monn 1013,-20
+1039,2,1,Matt,Calvin Heimburg 1043,-32
+1040,17,2,Matt,Evan Smith 1030,-23
+1041,20,3,Matt,Mason Ford 1030,-26
+1042,35,4,Matt,Austin Turner 1023,-16
+1043,38,5,Matt,Albert Tamm 1020,-18
+1044,53,6,Matt,Gavin Babcock 1014,-19
+1045,1,1,Spanky,Gannon Buhr 1043,-27
+1046,18,2,Spanky,Cale Leiviska 1030,-19
+1047,19,3,Spanky,Adam Hammes 1029,-6
+1048,36,4,Spanky,Nathan Sexton 1026,-16
+1049,37,5,Spanky,Brodie Smith 1022,-11
+1050,54,6,Spanky,Jeremy Koling 1019,-13
+1051,7,1,Zach,Eagle McMahon 1042,-31
+1052,12,2,Zach,James Conrad 1032,-28
+1053,25,3,Zach,Garrett Gurthie 1030,-29
+1054,30,4,Zach,Silas Schultz 1026,-19
+1055,43,5,Zach,Paul Oman 1021,-18
+1056,48,6,Zach,Garett Everson 1017,-19
+1065,1,1,Brandon,Calvin Heimburg 1043,-23
+1066,18,2,Brandon,Garrett Gurthie 1030,-9
+1067,19,3,Brandon,Robert Burridge 1022,-9
+1068,36,4,Brandon,Luke Samson 1015,-4
+1069,37,5,Brandon,Gavin Babcock 1014,-4
+1070,54,6,Brandon,Jake Wolff 1001,-2
+1071,8,1,Dann,Anthony Barela 1039,0
+1072,11,2,Dann,James Proctor 1030,-24
+1073,26,3,Dann,Matt Bell 1026,-11
+1074,29,4,Dann,Scott Stokely 1014,-9
+1075,44,5,Dann,Blær Örn Ásgeirsson 1003,-11
+1076,47,6,Dann,Dennis Augustsson 1000,4
+1077,9,1,Dave,Aaron Gossage 1034,-16
+1078,10,2,Dave,Ezra Aderhold 1033,3
+1079,27,3,Dave,Brodie Smith 1022,-6
+1080,28,4,Dave,Tristan Tanner 1011,-1
+1081,45,5,Dave,Raven Newsom 1011,2
+1082,46,6,Dave,Joey Temali 1008,-8
+1083,6,1,Greg G,Niklas Anttila 1035,-12
+1084,13,2,Greg G,Lauri Lehtinen 1029,-4
+1085,24,3,Greg G,Albert Tamm 1020,1
+1086,31,4,Greg G,Teemu Talikainen 1017,3
+1087,42,5,Greg G,Jakub Knápek 1014,-9
+1088,49,6,Greg G,Hjalte Jensen 1006,1
+1089,7,1,Greg T,James Conrad 1032,-18
+1090,12,2,Greg T,Bradley Williams 1031,-9
+1091,25,3,Greg T,Daniel Davidsson 1016,4
+1092,30,4,Greg T,Silver Lätt 1005,-10
+1093,43,5,Greg T,Elias Luukkonen 1004,0
+1094,48,6,Greg T,Peter Lunde 0984,-4
+1095,2,1,Jack,Paul McBeth 1046,-29
+1096,17,2,Jack,Kevin Jones 1028,3
+1097,20,3,Jack,Chandler Kramer 1021,-2
+1098,35,4,Jack,Luke Humphries 1015,-11
+1099,38,5,Jack,Josef Berg 1003,-4
+1100,53,6,Jack,Morten Brenna 1002,-6
+1101,4,1,Matt,Eagle McMahon 1042,-20
+1102,15,2,Matt,Joona Heinänen 1026,3
+1103,22,3,Matt,Jakub Semerád 1022,-4
+1104,33,4,Matt,Tuomas Hyytiäinen 1016,2
+1105,40,5,Matt,Austin Hannum 1016,-8
+1106,51,6,Matt,Luke Bayne 1004,5
+1107,3,1,Spanky,Richard Wysocki 1044,-19
+1108,16,2,Spanky,Gregg Barsby 1023,0
+1109,21,3,Spanky,Kyle Klein 1040,-11
+1110,34,4,Spanky,Jeremy Koling 1019,-11
+1111,39,5,Spanky,Paul Ulibarri 1016,-15
+1112,52,6,Spanky,Bohdan Bílek 1003,6
+1113,5,1,Zach,Matthew Orum 1040,-17
+1114,14,2,Zach,Adam Hammes 1029,-17
+1115,23,3,Zach,Eric Oakley 1021,-14
+1116,32,4,Zach,Thomas Gilbert 1016,-4
+1117,41,5,Zach,Clay Edwards 1011,6
+1118,50,6,Zach,Håkon Kveseth 1002,-5
+1127,5,1,Brandon,Chris Dickerson 1039,-21
+1128,14,2,Brandon,Andrew Presnell 1030,-8
+1129,23,3,Brandon,Benjamin Callaway 1028,-16
+1130,32,4,Brandon,Ty Love 1024,-5
+1131,41,5,Brandon,Aidan Scott 1021,2
+1132,50,6,Brandon,Zach Arlinghaus 1015,-2
+1133,3,1,Dann,Richard Wysocki 1044,-28
+1134,16,2,Dann,Adam Hammes 1025,-19
+1135,21,3,Dann,Andrew Marwede 1025,-26
+1136,34,4,Dann,Chandler Kramer 1022,-6
+1137,39,5,Dann,Luke Taylor 1022,-9
+1138,52,6,Dann,Kevin Kiefer III 1017,16
+1139,4,1,Dave,Gannon Buhr 1044,-10
+1140,15,2,Dave,Aaron Gossage 1035,-6
+1141,22,3,Dave,James Conrad 1031,-4
+1142,33,4,Dave,Robert Burridge 1020,-8
+1143,40,5,Dave,Eric Oakley 1024,-9
+1144,51,6,Dave,Gregg Barsby 1024,-13
+1145,6,1,Greg G,Matthew Orum 1040,-15
+1146,13,2,Greg G,James Proctor 1031,-20
+1147,24,3,Greg G,Bradley Williams 1030,-5
+1148,31,4,Greg G,Joseph Anderson 1029,22
+1149,42,5,Greg G,Matt Bell 1026,-1
+1150,49,6,Greg G,Paul Oman 1020,2
+1151,1,1,Greg T,Calvin Heimburg 1047,-31
+1152,18,2,Greg T,Cole Redalen 1030,-36
+1153,19,3,Greg T,Ezra Robinson 1026,-27
+1154,36,4,Greg T,Emerson Keith 1023,-17
+1155,37,5,Greg T,Jake Hebenheimer 1016,-2
+1156,54,6,Greg T,Austin Hannum 1015,-4
+1157,9,1,Jack,Isaac Robinson 1037,-15
+1158,10,2,Jack,Ezra Aderhold 1033,1
+1159,27,3,Jack,Kevin Jones 1029,-18
+1160,28,4,Jack,Chris Clemons 1026,-18
+1161,45,5,Jack,Chandler Fry 1015,1
+1162,46,6,Jack,Gavin Rathbun 1020,-10
+1163,7,1,Matt,Kyle Klein 1038,-11
+1164,12,2,Matt,Simon Lizotte 1036,-23
+1165,25,3,Matt,Evan Smith 1029,-5
+1166,30,4,Matt,Nikko Locastro 1027,-13
+1167,43,5,Matt,Austin Turner 1023,3
+1168,48,6,Matt,Gavin Babcock 1017,4
+1169,8,1,Spanky,Corey Ellis 1034,-3
+1170,11,2,Spanky,Joel Freeman 1035,-14
+1171,26,3,Spanky,Silas Schultz 1027,10
+1172,29,4,Spanky,Sullivan Tipton 1025,-12
+1173,44,5,Spanky,Brodie Smith 1022,-7
+1174,47,6,Spanky,Micah Groth 1026,8
+1175,2,1,Zach,Anthony Barela 1039,5
+1176,17,2,Zach,Alden Harris 1034,-1
+1177,20,3,Zach,Mason Ford 1030,-12
+1178,35,4,Zach,Garrett Gurthie 1028,-8
+1179,38,5,Zach,Evan Scott 1021,-9
+1180,53,6,Zach,Paul Ulibarri 1017,-15
+1189,6,1,Brandon,Chris Dickerson 1040,-25
+1190,13,2,Brandon,Anthony Barela 1038,-18
+1191,24,3,Brandon,Sullivan Tipton 1028,-5
+1192,31,4,Brandon,Andrew Presnell 1028,0
+1193,42,5,Brandon,Ty Love 1023,10
+1194,49,6,Brandon,Luke Samson 1016,7
+1195,4,1,Dann,Richard Wysocki 1047,-19
+1196,15,2,Dann,Ezra Robinson 1028,-13
+1197,22,3,Dann,Adam Hammes 1027,-10
+1198,33,4,Dann,Emerson Keith 1025,-5
+1199,40,5,Dann,Luke Taylor 1027,-9
+1200,51,6,Dann,Zach Arlinghaus 1015,-10
+1201,2,1,Dave,Gannon Buhr 1044,-17
+1202,17,2,Dave,Colten Montgomery 1016,3
+1203,20,3,Dave,Alden Harris 1030,-14
+1204,35,4,Dave,Evan Scott 1021,10
+1205,38,5,Dave,Robert Burridge 1020,-10
+1206,53,6,Dave,Andrew Fish 1017,7
+1207,9,1,Greg G,Matthew Orum 1039,-9
+1208,10,2,Greg G,James Proctor 1036,-7
+1209,27,3,Greg G,Bradley Williams 1030,-14
+1210,28,4,Greg G,Eric Oakley 1024,-6
+1211,45,5,Greg G,Jeremy Koling 1021,-9
+1212,46,6,Greg G,Joseph Anderson 1028,7
+1213,8,1,Greg T,Simon Lizotte 1039,-30
+1214,11,2,Greg T,Cole Redalen 1031,-25
+1215,26,3,Greg T,Chris Clemons 1027,-7
+1216,29,4,Greg T,Manabu Kajiyama 1056,11
+1217,44,5,Greg T,Casey White 1017,-10
+1218,47,6,Greg T,Gavin Babcock 1018,-13
+1219,7,1,Jack,Isaac Robinson 1036,-20
+1220,12,2,Jack,Aaron Gossage 1033,-13
+1221,25,3,Jack,Nikko Locastro 1029,-14
+1222,30,4,Jack,Benjamin Callaway 1030,-3
+1223,43,5,Jack,Chandler Fry 1014,-2
+1224,48,6,Jack,Austin Hannum 1017,-15
+1225,3,1,Matt,Eagle McMahon 1044,-27
+1226,16,2,Matt,Andrew Marwede 1030,2
+1227,21,3,Matt,Kevin Jones 1026,-24
+1228,34,4,Matt,Brodie Smith 1021,-4
+1229,39,5,Matt,Paul Ulibarri 1021,-2
+1230,52,6,Matt,Jake Hebenheimer 1019,-17
+1231,5,1,Spanky,Kyle Klein 1037,-13
+1232,14,2,Spanky,Ezra Aderhold 1031,-11
+1233,23,3,Spanky,Joel Freeman 1036,-14
+1234,32,4,Spanky,Evan Smith 1028,8
+1235,41,5,Spanky,Silas Schultz 1024,-8
+1236,50,6,Spanky,Chandler Kramer 1022,-12
+1237,1,1,Zach,Calvin Heimburg 1051,-24
+1238,18,2,Zach,James Conrad 1028,-4
+1239,19,3,Zach,Mason Ford 1032,-4
+1240,36,4,Zach,Gavin Rathbun 1023,-1
+1241,37,5,Zach,Connor Rock 1015,13
+1242,54,6,Zach,Luke Humphries 1016,-1

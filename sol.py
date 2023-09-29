@@ -105,14 +105,8 @@ def Page():
         print("firing you action cell")
         # click a dataframe row, then get data returned in another component
         set_mycell(dict(column=column, row_index=row_index))
-        print(set_mycell)
         for i, x in enumerate(mydata.value):
-            print(i)
-            print(x)
-
             if i == row_index:
-                print(x.name)
-                print(x.age)
                 set_name(x.name)
                 set_age(x.age)
                 idselect.value = row_index
@@ -120,16 +114,22 @@ def Page():
     def updatedata():
         myeditdata = mydata.value.copy()
         for i, x in enumerate(mydata.value):
-            if i == mydata.value:
+            if i == idselect.value:
                 myeditdata[idselect.value] = FakeData(name, age)
-                #print(x)
+                print(x)
 
         mydata.value = myeditdata
         set_name("")
         set_age("")
 
     def deletedata():
-        pass
+        if idselect.value < len(mydata.value):
+            mydeldata = mydata.value.copy()
+            mydeldata.pop(idselect.value)
+            mydata.value = mydeldata
+            set_name("")
+            set_age(0)
+
 
     def addnewdata():
         # add fake data to the table
